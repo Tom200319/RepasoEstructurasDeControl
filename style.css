@@ -1,0 +1,14 @@
+.contenedorPrincipal{
+    background-color: red;
+    text-align: center;
+    
+}
+
+.contenedorSecundario{
+    background-color: blueviolet;
+}
+
+img{
+    height: 200px;
+    width: 600px;
+}
